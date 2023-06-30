@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-29T14:43:41Z" name="Default suite" finished-at="2023-06-29T14:43:41Z" duration-ms="26">
+    <groups>
+      <group name="smoke">
+        <method signature="demo_Testng.ordermobile()[pri:0, instance:selenium.demo_Testng@f79e]" name="ordermobile" class="selenium.demo_Testng"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-06-29T14:43:41Z" name="Default test" finished-at="2023-06-29T14:43:41Z" duration-ms="26">
+      <class name="selenium.demo_Testng">
+        <test-method is-config="true" signature="firstsuite()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="firstsuite" finished-at="2023-06-29T14:43:41Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstsuite -->
+        <test-method is-config="true" signature="bfirst()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="bfirst" finished-at="2023-06-29T14:43:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfirst -->
+        <test-method is-config="true" signature="firstclass()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="firstclass" finished-at="2023-06-29T14:43:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstclass -->
+        <test-method signature="orderTV()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="orderTV" finished-at="2023-06-29T14:43:41Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderTV -->
+        <test-method is-config="true" signature="login()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="login" finished-at="2023-06-29T14:43:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="logout" finished-at="2023-06-29T14:43:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="ordermobile()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="ordermobile" finished-at="2023-06-29T14:43:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordermobile -->
+        <test-method is-config="true" signature="login()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="login" finished-at="2023-06-29T14:43:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="logout" finished-at="2023-06-29T14:43:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="afirst()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="afirst" finished-at="2023-06-29T14:43:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afirst -->
+        <test-method is-config="true" signature="sesuite()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="sesuite" finished-at="2023-06-29T14:43:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sesuite -->
+        <test-method is-config="true" signature="seclass()[pri:0, instance:selenium.demo_Testng@f79e]" started-at="2023-06-29T14:43:41Z" name="seclass" finished-at="2023-06-29T14:43:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seclass -->
+      </class> <!-- selenium.demo_Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
